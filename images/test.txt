@@ -1,0 +1,5 @@
+title: Paul Deist
+description: Operations Research Officer
+logo: images/Deist_photo.jpeg
+show_downloads: no
+them:jekyll-theme-minimal
